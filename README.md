@@ -1,2 +1,3 @@
-# built-for-all
-Collection of Tools, Scripts and Projects built for all to be used and contribute
+# Overview
+
+Grorapid  - ***Built for all*** is a collection of tools, scripts and projects which Grorapid engineering team and other contributors work together to make software meaningful and useful. 
