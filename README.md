@@ -6,8 +6,8 @@ It can include some tools and scripts built by others and reused or reorganised 
 **[Projects Section](https://github.com/grorapid/built-for-all/projects)**
 List of projects we are currently working on and have worked in the past.
 
-# Join the ride
-To join us in building, launching and scaling tools/products, you can join the discussion forum to discuss ideas and plan the projects accordingly.
+# Join us
+To join us in building, launching and scaling tools/products, you can join the discussion forum to discuss ideas, contribute and lead the projects accordingly.
 
 [Join the discussion](https://github.com/grorapid/built-for-all/discussions)
 
